@@ -1,4 +1,4 @@
-# Neuroimaging Analysis of Parkinson’s Disease
+# Project 1 - Brain morphometry and network function: structural MRI and resting-state fMRI
 Group 4
 - Bruno Comba Massano - 106195  
 - Carolina da Conceição Araújo - 116176  
