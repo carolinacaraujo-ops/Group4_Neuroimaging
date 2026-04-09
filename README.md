@@ -7,6 +7,7 @@ Group 4
 - Filipa Alexandre Cantante - 116027  
 
 **Abstract**
+
 This project presents a complete neuroimaging analysis pipeline applied to one healthy control (HC) subject and one Parkinson’s disease (PD) subject using structural MRI and resting-state fMRI data. Structural preprocessing included brain extraction, tissue segmentation, subcortical segmentation, spatial normalization, and extraction of bilateral subcortical volumes. Functional preprocessing included motion correction, B0 unwarping, registration to structural and MNI space, high-pass filtering, nuisance regression, spatial smoothing, and Independent Component Analysis (ICA) to identify the Default Mode Network (DMN).
 
 The results showed subtle structural differences after normalization by total brain volume, while functional analysis revealed clearer alterations in DMN organization. The HC subject showed stronger spatial correspondence with the canonical DMN, whereas the PD subject presented a more dispersed pattern despite higher mean and peak Z-scores. These findings suggest that functional connectivity measures may be more sensitive than structural metrics for detecting Parkinson’s disease-related changes.
