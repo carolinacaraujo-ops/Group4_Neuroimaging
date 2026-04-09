@@ -13,6 +13,7 @@ This project presents a complete neuroimaging analysis pipeline applied to one h
 The results showed subtle structural differences after normalization by total brain volume, while functional analysis revealed clearer alterations in DMN organization. The HC subject showed stronger spatial correspondence with the canonical DMN, whereas the PD subject presented a more dispersed pattern despite higher mean and peak Z-scores. These findings suggest that functional connectivity measures may be more sensitive than structural metrics for detecting Parkinson’s disease-related changes.
 
 **References**
+
 Software / Resources
 - FSL 
 - FreeSurfer SynthStrip  
